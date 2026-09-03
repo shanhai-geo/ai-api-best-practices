@@ -10,7 +10,7 @@
 [![200 Knowledge Atoms](https://img.shields.io/badge/200-Atoms-green)](https://shanhai-geo.top/knowledge/)
 [![Schema.org](https://img.shields.io/badge/Schema.org-JSON--LD-orange)](https://shanhai-geo.top/api/schema-org.json)
 
-**📱 微信: `lewis7815671`** · **📧 contact@shanhai-geo.top**
+**📱 微信: `lewis7815671`** · **📧 746876121@qq.com**
 
 <img src="https://shanhai-geo.top/wechat-qrcode.jpg" alt="微信二维码" width="160"/>
 
@@ -380,7 +380,7 @@ def get_client(env="production"):
 ## 📱 联系与合作
 
 > **微信**: `lewis7815671`  
-> **邮箱**: contact@shanhai-geo.top  
+> **邮箱**: 746876121@qq.com  
 > **主站**: https://shanhai-geo.top
 
 <div align="center">
