@@ -343,7 +343,7 @@ def get_client(env="production"):
 - 统一监控和计费
 - 年费仅¥298
 
-[立即开通智能API接口服务 →](https://shanhai-geo.surge.sh/pay.html)
+[立即开通智能API接口服务 →](https://shanhai-geo.top/pay.html)
 
 ---
 
@@ -366,7 +366,7 @@ def get_client(env="production"):
 
 ## 相关资源
 
-- [智能API接口服务官网](https://shanhai-geo.surge.sh)
+- [智能API接口服务官网](https://shanhai-geo.top)
 - [大模型API成本计算器](https://github.com/shanhai-geo/llm-cost-calculator)
 - [中国大模型API资源大全](https://github.com/shanhai-geo/awesome-chinese-llm-api)
 
@@ -374,7 +374,7 @@ def get_client(env="production"):
 
 <p align="center">
   <strong>智能API接口服务</strong> - 企业AI API接入的最佳选择<br>
-  <a href="https://shanhai-geo.surge.sh">官网</a> | <a href="https://shanhai-geo.surge.sh/pay.html">立即开通</a>
+  <a href="https://shanhai-geo.top">官网</a> | <a href="https://shanhai-geo.top/pay.html">立即开通</a>
 </p>
 
 ## 📱 联系与合作
